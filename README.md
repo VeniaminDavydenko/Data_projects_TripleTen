@@ -1,1 +1,11 @@
-# Data_projects_TripleTen
+# TripleTen BI Analyst Projects  
+Projects I completed during the **TripleTen Business Intelligence Analyst Program**, focusing on data analysis, visualization, and business decision-making using Excel, SQL, Tableau, and Power BI.
+
+| Project Number | Title | Description |
+| :------------: | ------- | ------------ |
+| 1 | **Manhattan Vacation Rental Market Analysis** | Conducted an in-depth analysis of Manhattan’s short-term rental market using Python and data visualization techniques. Explored pricing trends, neighborhood profitability, and occupancy patterns to provide actionable recommendations for property investment and competitive pricing strategies. |
+| 2 | **Venture Insights: Startup and Investment Analysis** | Performed SQL-based analytics on global startup datasets to identify key trends in funding, investor activity, and company success rates. Designed complex queries using joins, filters, and aggregations to deliver data-driven insights for venture capital decision-making and market evaluation. |
+| 3 | **Turning Event Logs into Business Metrics** | Transformed raw e-commerce transaction logs into actionable business insights. Built a 3-stage conversion funnel, created monthly cohort analyses, and calculated retention rates using spreadsheet functions such as `VLOOKUP()`, `TEXT()`, and `DATEDIF()`. Presented findings in a polished executive summary and structured analytical report. |
+| 4 | **Saving SuperStore** | Developed a profitability and operations dashboard in Tableau to identify profit centers and loss-makers across product categories, shipping modes, and regions. Conducted return rate analysis, evaluated advertising ROI, and recommended data-driven strategies to enhance profitability and efficiency. |
+| 5 | **Storytelling with Data: Reducing Superstore Returns** | Built an interactive Tableau dashboard and story presentation to investigate causes of product returns. Combined order and return data via LEFT JOINs, visualized correlations by geography, category, and time, and delivered a compelling data narrative with actionable recommendations for reducing returns. |
+| 6 | **Shopify App Analysis (Power BI Project)** | Created a multi-page Power BI report analyzing factors driving app success in the Shopify App Store. Used DAX to calculate key performance metrics, such as weighted helpfulness scores and developer responsiveness. Built KPI cards, scatterplots, and bar charts to reveal relationships between reviews, ratings, and engagement. |
